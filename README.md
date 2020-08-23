@@ -1,10 +1,7 @@
 ### Hi there 👋, Myself Rahul Kuchhadia
 ![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-To Be a Successful professional in a Globally
-Respected Company and to achieve the objectives
-of the company with Honesty and Fairness and to
-Continuously Upgrade My Knowledge and Skills.
+Self-Motivated and Self-learner Person called Rahul Kuchhadia, Want To Introduce Myself With Short BIO. I'm Literally Keen To Know About New Technology And Work With Them And Also Doing Certification On Artificial Intelligence And AWS Cloud.
 
 Skills: Python / Data Analytics / Machine Learning / React / Firebase
 
