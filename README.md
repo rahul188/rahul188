@@ -1,11 +1,10 @@
 ### Hi there 👋, Myself Rahul Kuchhadia
 ![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-Self-Motivated and Self-learner Person called Rahul Kuchhadia, Want To Introduce Myself With Short BIO. I'm Literally Keen To Know About New Technology And Work With Them And Also Doing Certification On Artificial Intelligence And AWS Cloud.
+Data Science Enthusiasts | Machine learning | Python | Docker | Shell scripting
 
 Skills: Python / Data Analytics / Machine Learning / React / Firebase
 
-- 🔭 I’m currently working on @PTC  
 - 🌱 I’m currently learning Machine Learning 
 - 👯 I’m looking to collaborate on any Python / React / ML Project 
 - 💬 Ask me about Python / ML / React 
