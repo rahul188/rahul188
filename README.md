@@ -1,5 +1,4 @@
 ### Hi there 👋, Myself Rahul Kuchhadia
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 Data Science Enthusiasts | Machine learning | Python | Docker | Shell scripting
 
