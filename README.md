@@ -8,7 +8,7 @@ Skills: Python / Data Analytics / Machine Learning / React / Firebase
 - 👯 I’m looking to collaborate on any Python / React / ML Project 
 - 💬 Ask me about Python / ML / React 
 - 📫 How to reach me: rahulkuchhadia@gmail.com 
-- ⚡ Fun fact: also know as #PythonBoy
+
 
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/rahulkuchhadia5) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/r_k_1_8_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul-kuchhadia) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11789931/rahul-kuchhadia) 
